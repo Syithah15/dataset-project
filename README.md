@@ -14,13 +14,9 @@ Proyek ini mendukung **SDGS 13: Penanganan Perubahan Iklim**, ) Model ini bukan 
 
 Sebagai solusi, proyek ini membangun model machine learning yang memprediksi hujan atau tidak hujan berdasarkan data cuaca harian, lalu diintegrasikan ke aplikasi web interaktif agar siapa pun bisa menggunakannya dengan mudah.
 
-
-
-
-
 ## 📊 Dataset
 
-- **Sumber:** Data cuaca harian Sulawesi Tenggara
+- **Sumber:** Data cuaca harian Sulawesi Tenggara (Kaggle)
 - **Periode:** 1 Januari 2022 - November 2023
 - **Jumlah:** 699 baris, 8 kolom
 - **Fitur:** Tanggal, Suhu min/max/ata-rata, Kelembapan, Curah hujan, Penyinaran matahari, Kecepatan angin
@@ -50,6 +46,24 @@ Proyek ini dilakukan melalui beberapa tahapan, yaitu:
 7. **Prediksi**  
    Menggunakan model yang telah dilatih untuk memprediksi kemungkinan kondisi hujan berdasarkan data parameter cuaca yang diberikan.
 
-## 📁 Struktur Project
+## 📈 Hasil
+
+| Model | Accuracy | F1 (Hujan) | ROC-AUC |
+|---|---|---|---|
+| Dummy Classifier | 0.57 | 0.73 | – |
+| Logistic Regression | 0.78 | 0.82 | 0.83 |
+| Random Forest | 0.80 | 0.84 | 0.81 |
+
+**Model terbaik:** Random Forest — accuracy 0.80, recall kelas hujan 0.89
+(berhasil mendeteksi 62 dari 70 hari hujan pada data uji).
+
+### Interpretasi
+
+Random Forest dipilih sebagai model utama karena memiliki accuracy, precision,
+recall, dan F1 tertinggi. Model ini berhasil mendeteksi sebagian besar hari
+hujan (recall 0.89), meskipun masih ada 16 alarm palsu (false positive).
+
+Logistic Regression menjadi pembanding yang baik dengan ROC-AUC sedikit lebih
+tinggi (0.83), namun performa keseluruhannya di bawah Random Forest.
 
 
