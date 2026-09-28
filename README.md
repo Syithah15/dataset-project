@@ -10,3 +10,4 @@ Project analisis data cuaca harian Sulawesi Tenggara (2022-2023) dengan machine 
 - **Fitur:** Tanggal, Suhu min/max/rata-rata, Kelembapan, Curah hujan, Penyinaran matahari, Kecepatan angin
 
 ## 📁 Struktur Project
+okk
