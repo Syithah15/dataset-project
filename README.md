@@ -87,3 +87,5 @@ tinggi (0.83), namun performa keseluruhannya di bawah Random Forest.
 
 
 
+
+
