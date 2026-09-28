@@ -51,4 +51,25 @@ Proyek ini dilakukan melalui beberapa tahapan, yaitu:
    Menggunakan model yang telah dilatih untuk memprediksi kemungkinan kondisi hujan berdasarkan data parameter cuaca yang diberikan.
 
 ## 📁 Struktur Project
+## 📁 7. Struktur Folder
+
+```text
+dataset-project/
+│
+├── app/
+│   └── app.py
+│
+├── data/
+│   ├── raw/
+│   │   └── Data Cuaca Harian SulawesiTenggara.xlsx
+│   │
+│   └── processed/
+│       ├── cuaca_sultra_clean.csv
+│       └── model_prediksi_hujan.pkl
+│
+├── notebooks/
+│   └── olah_dataset.ipynb
+│
+├── README.md
+└── requirements.txt
 
