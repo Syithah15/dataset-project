@@ -21,6 +21,7 @@ Sebagai solusi, proyek ini membangun model machine learning yang memprediksi huj
 - **Jumlah:** 699 baris, 8 kolom
 - **Fitur:** Tanggal, Suhu min/max/ata-rata, Kelembapan, Curah hujan, Penyinaran matahari, Kecepatan angin
 
+## 📁 Struktur Project
 ## ⚙️ Metode
 
 Proyek ini dilakukan melalui beberapa tahapan, yaitu:
@@ -65,3 +66,4 @@ hujan (recall 0.89), meskipun masih ada 16 alarm palsu (false positive).
 
 Logistic Regression menjadi pembanding yang baik dengan ROC-AUC sedikit lebih
 tinggi (0.83), namun performa keseluruhannya di bawah Random Forest.
+
