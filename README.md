@@ -89,6 +89,21 @@ tinggi (0.83), namun performa keseluruhannya di bawah Random Forest.
 ├── README.md
 └── requirements.txt
 ```
+## 🛠️ Tools & Library
+Proyek ini menggunakan beberapa tools dan library untuk mendukung proses pengolahan data, analisis, pemodelan machine learning, hingga pengembangan aplikasi prediksi. Setiap tools memiliki fungsi yang berbeda dan saling melengkapi dalam membangun sistem prediksi cuaca.
+
+| Tools / Library | Kegunaan |
+|---|---|
+| Python | Bahasa pemrograman utama |
+| Jupyter Notebook | Pengolahan dan analisis dataset |
+| Pandas | Membaca dan mengolah data |
+| NumPy | Operasi numerik dan penanganan nilai |
+| Matplotlib | Membuat visualisasi data |
+| Scikit-learn | Training dan evaluasi model machine learning |
+| Random Forest | Algoritma klasifikasi prediksi hujan |
+| Joblib | Menyimpan dan memuat model |
+| Streamlit | Membangun aplikasi prediksi berbasis web |
+
 🚀 Cara Menjalankan
 
 1. Clone repo:
@@ -102,12 +117,3 @@ tinggi (0.83), namun performa keseluruhannya di bawah Random Forest.
    python -m streamlit run app/app.py
 
 4. Buka browser: http://localhost:8501
-
-🛠️ Tools & Library
-
-- Python 3.13
-- pandas — olah data
-- scikit-learn — model machine learning
-- matplotlib — visualisasi
-- openpyxl — baca file Excel
-- Streamlit — aplikasi web
