@@ -26,3 +26,4 @@ Sebagai solusi, proyek ini membangun model machine learning yang memprediksi huj
 - **Fitur:** Tanggal, Suhu min/max/ata-rata, Kelembapan, Curah hujan, Penyinaran matahari, Kecepatan angin
 
 ## 📁 Struktur Project
+okk
