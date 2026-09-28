@@ -83,6 +83,19 @@ tinggi (0.83), namun performa keseluruhannya di bawah Random Forest.
 ├── README.md
 └── requirements.txt
 ```
+## 🛠️ Tools & Library
+
+| Tools / Library | Kegunaan |
+|---|---|
+| Python | Bahasa pemrograman utama |
+| Jupyter Notebook | Pengolahan dan analisis dataset |
+| Pandas | Membaca dan mengolah data |
+| NumPy | Operasi numerik dan penanganan nilai |
+| Matplotlib | Membuat visualisasi data |
+| Scikit-learn | Training dan evaluasi model machine learning |
+| Random Forest | Algoritma klasifikasi prediksi hujan |
+| Joblib | Menyimpan dan memuat model |
+| Streamlit | Membangun aplikasi prediksi berbasis web |
 
 
 
