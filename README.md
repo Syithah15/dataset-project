@@ -84,6 +84,7 @@ tinggi (0.83), namun performa keseluruhannya di bawah Random Forest.
 └── requirements.txt
 ```
 ## 🛠️ Tools & Library
+Proyek ini menggunakan beberapa tools dan library untuk mendukung proses pengolahan data, analisis, pemodelan machine learning, hingga pengembangan aplikasi prediksi. Setiap tools memiliki fungsi yang berbeda dan saling melengkapi dalam membangun sistem prediksi cuaca.
 
 | Tools / Library | Kegunaan |
 |---|---|
