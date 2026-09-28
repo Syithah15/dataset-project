@@ -1,6 +1,6 @@
 # 🌦️ Analisis Cuaca Sulawesi Tenggara & Prediksi Hujan
-
-👥 Anggota Kelompok 
+# By Kelompok 6
+👥 Anggota Kelompok 6
 
 - Masyithah (F1G125061)
 - Adam Muzakkir Eni (F1G125001)
