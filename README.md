@@ -66,7 +66,7 @@ hujan (recall 0.89), meskipun masih ada 16 alarm palsu (false positive).
 Logistic Regression menjadi pembanding yang baik dengan ROC-AUC sedikit lebih
 tinggi (0.83), namun performa keseluruhannya di bawah Random Forest.
 
-## 📁 Struktur Folder
+## 📁 Struktur Repository
 
 ```text
 .
