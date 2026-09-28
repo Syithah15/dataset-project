@@ -25,7 +25,6 @@ Sebagai solusi, proyek ini membangun model machine learning yang memprediksi huj
 - **Jumlah:** 699 baris, 8 kolom
 - **Fitur:** Tanggal, Suhu min/max/ata-rata, Kelembapan, Curah hujan, Penyinaran matahari, Kecepatan angin
 
-## 📁 Struktur Project
 ## ⚙️ Metode
 
 Proyek ini dilakukan melalui beberapa tahapan, yaitu:
@@ -50,3 +49,6 @@ Proyek ini dilakukan melalui beberapa tahapan, yaitu:
 
 7. **Prediksi**  
    Menggunakan model yang telah dilatih untuk memprediksi kemungkinan kondisi hujan berdasarkan data parameter cuaca yang diberikan.
+
+## 📁 Struktur Project
+
