@@ -1,4 +1,4 @@
-# Analisis Cuaca Sulawesi Tenggara & Prediksi Hujan
+# 🌦️ Analisis Cuaca Sulawesi Tenggara & Prediksi Hujan
 
 Proyek ini membangun model *supervised binary classification* untuk memprediksi
 hujan atau tidak hujan berdasarkan data cuaca harian Sulawesi Tenggara.
