@@ -1,5 +1,11 @@
 # 🌦️ Analisis Cuaca Sulawesi Tenggara & Prediksi Hujan
 
+👥 Anggota Kelompok 
+
+- Masyithah (F1G125061)
+- Adam Muzakkir Eni (F1G125001)
+- Muhammad Fajri Jumadil (F1G125041)
+
 Proyek ini membangun model *supervised binary classification* untuk memprediksi
 hujan atau tidak hujan berdasarkan data cuaca harian Sulawesi Tenggara.
 Model dilatih menggunakan data BMKG periode 2022–2023 dan diintegrasikan
@@ -83,7 +89,25 @@ tinggi (0.83), namun performa keseluruhannya di bawah Random Forest.
 ├── README.md
 └── requirements.txt
 ```
+🚀 Cara Menjalankan
 
+1. Clone repo:
+   git clone https://github.com/Syifah15/dataset-project.git
+   cd dataset-project
 
+2. Install library:
+   pip install -r requirements.txt
 
+3. Jalankan aplikasi:
+   python -m streamlit run app/app.py
 
+4. Buka browser: http://localhost:8501
+
+🛠️ Tools & Library
+
+- Python 3.13
+- pandas — olah data
+- scikit-learn — model machine learning
+- matplotlib — visualisasi
+- openpyxl — baca file Excel
+- Streamlit — aplikasi web
