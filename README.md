@@ -1,6 +1,6 @@
 # Analisis Cuaca Sulawesi Tenggara & Prediksi Hujan
 
-Project analisis data cuaca harian Sulawesi Tenggara (2022-2023) dengan machine learning untuk prediksi hujan.
+Project analisis data cuaca harian Sulawesi Tenggara (2022-2023) dengan machine learning untuk prediksi hujan atau tidak hujan.
 
 ## 📊 Dataset
 
