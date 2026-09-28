@@ -1,8 +1,12 @@
-# Dataset Project
+# Analisis Cuaca Sulawesi Tenggara & Prediksi Hujan
 
-Project untuk olah dataset.
+Project analisis data cuaca harian Sulawesi Tenggara (2022-2023) dengan machine learning untuk prediksi hujan.
 
-## Struktur
-- `data/raw/` — dataset asli
-- `data/processed/` — hasil olahan
-- `notebooks/` — notebook olah data
+## 📊 Dataset
+
+- **Sumber:** Data cuaca harian Sulawesi Tenggara
+- **Periode:** 1 Januari 2022 - November 2023
+- **Jumlah:** 699 baris, 8 kolom
+- **Fitur:** Tanggal, Suhu min/max/rata-rata, Kelembapan, Curah hujan, Penyinaran matahari, Kecepatan angin
+
+## 📁 Struktur Project
