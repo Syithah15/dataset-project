@@ -66,5 +66,25 @@ hujan (recall 0.89), meskipun masih ada 16 alarm palsu (false positive).
 Logistic Regression menjadi pembanding yang baik dengan ROC-AUC sedikit lebih
 tinggi (0.83), namun performa keseluruhannya di bawah Random Forest.
 
+## 📁 7. Struktur Folder
+dataset-project/
+│
+├── app/
+│   └── app.py
+│
+├── data/
+│   ├── raw/
+│   │   └── Data Cuaca Harian SulawesiTenggara.xlsx
+│   │
+│   └── processed/
+│       ├── cuaca_sultra_clean.csv
+│       └── model_prediksi_hujan.pkl
+│
+├── notebooks/
+│   └── olah_dataset.ipynb
+│
+├── README.md
+└── requirements.txt
+
 
 
