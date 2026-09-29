@@ -115,5 +115,3 @@ Proyek ini menggunakan beberapa tools dan library untuk mendukung proses pengola
 
 3. Jalankan aplikasi:
    python -m streamlit run app/app.py
-
-4. Buka browser: http://localhost:8501
