@@ -22,10 +22,16 @@ Sebagai solusi, proyek ini membangun model machine learning yang memprediksi huj
 
 ## 📊 Dataset
 
-- **Sumber:** Data cuaca harian Sulawesi Tenggara (Kaggle)
-- **Periode:** 1 Januari 2022 - November 2023
+- **Sumber:** [Data Cuaca Harian – Kaggle](https://www.kaggle.com/datasets/ratnasarii/data-cuaca-harian) (BMKG)
+- **Periode:** 1 Januari 2022 – 30 November 2023
 - **Jumlah:** 699 baris, 8 kolom
-- **Fitur:** Tanggal, Suhu min/max/ata-rata, Kelembapan, Curah hujan, Penyinaran matahari, Kecepatan angin
+- **Fitur (6):**
+  - Temperatur minimum (°C)
+  - Temperatur maximum (°C)
+  - Temperatur rata-rata (°C)
+  - Kelembapan rata-rata (%)
+  - Lamanya penyinaran matahari (jam)
+  - Kecepatan angin rata-rata (m/s)
 
 ## ⚙️ Metode
 
